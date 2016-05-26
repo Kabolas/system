@@ -1,0 +1,315 @@
+
+ls
+history
+exit
+ls
+history
+exit
+history -n
+history -n
+history
+history -n
+exit
+history
+history -n
+exit
+history -n
+cat bl.txt -n bl.txt
+exit
+cat bl.txt -n
+exit
+cat bl.txt -n bl.txt
+cat kj.txt -n 
+cat bl.txt
+cat -n bl.txt
+cat -n bl.txt
+cat -n bl.txt
+exit
+cat -n bl.txt
+exit
+cat -n bl.txt
+exit
+cat -n bl.txt
+exit
+cat -n bl.txt
+cat bl.txt
+history
+cat history -n
+cat history.txt -n
+exit
+exit
+cat bl.txt bl.txt -n
+
+cat bl.txt bl.txt -n
+
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy tstcpy bl
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+[A
+cpy bl.txt bll.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+cpy bl.txt blbl.txt
+ls
+ls
+ls
+ls
+l
+
+ls
+ls
+ls
+ls
+ls
+l man
+ man l
+man ls
+shell
+exit
+./shell
+exit
+echo blbl > truc
+echo gffgfh > blbl.txt
+echo fhuhld > blbl.txt
+ls
+ls > blbl.txt
+ls > blbl.txt
+ls > blbl.txt
+echo bl.txt blbl.txt | cpy
+ls|wc
+ls
+ls
+lds
+ls
+ls > blbl.txt
+ls
+ls | cpy
+ls
+ls |wc
+ls
+echo bl.txt blbl.txt | cpy
+ls | wc
+ls | cpy
+echo bl.txt | cpy
+echo bl.txt | cpy
+echo bl.txt blbl.txt | cpy
+echo bl.txt blbl.txt | cpy
+ls | wc
+ls | cpy
+ls | wc
+ls
+ls lol
+echo bl.txt blbl.txt | cpy
+echo bl.txt blbl.txt | cpy
+echo bl.txt blbl.txt | cpy
+echo bl.txt blbl.txt | cpy
+echo bl.txt blbl.txt | cpy
+ls | wc
+wc
+echo bl.txt blbl.txt | cpy
+ls | wc
+echo bl.txt blbl.txt | cpy
+vim my_shell.c
+echo bl.txt blbl.txt | echo
+echo bl.txt blbl.txt | cpy
+ls | wc*
+quit
+exit
+ls | wc
+vim temp.txt
+ls
+ls > temp.txt
+vim temp.txt
+ls > temp.txt
+vim temp.txt
+exit
+ls > temps.txt
+exit
+ls > temps.txt
+exit
+ls > temp.txt
+exit
+ls > temp.txt
+exit
+ls > blbl.txt
+ls > blbl.txt
+ls > ko.txt
+ls > mc.txt
+ls > mc.txt
+echo bob > ko.txt
+echo bob > ko.txt
+ls
+echo bob > ko.txt
+ls > lol.txt
+ls > lol.txt
+ls > lol.txt
+ls > ls.txt
+ls > ls.txt
+ls > bl.txt
+ls > ls
+ls > ls.txt
+ls > ls.txt
+ls > ls.txt
+ls > ls.txt
+ls > ls.txt
+ls > ls.txt
+ls > l
+ls > l
+ls > bl.txt
+ls > ls.txt
+ls > j
+ls > ls.txt
+ls > ko.txt
+ls > ko.txt
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls |wc
+ls | wc
+ls | wc
+history -m
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+echo bl.txt blbl.txt
+echo bl.txt blbl.txt | cpy
+echo bl.txt | wc
+echo blablalblbl | wc
+echo bl.txt | wc
+wc bl.txt
+ls | wc
+ls | wc
+ls | wc
+echo bl.txt | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+cd ..
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls
+ls | wc
+ls | wc
+ls
+ls
+ls | wc
+ls
+ls
+ ls | wc
+ls | wc | wc
+ls | wc
+ls | wc
+ls
+ls | wc
+ls | wc
+ls | wc
+echo test | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc
+
+ls | wc
+ls | wc
+ls | wc
+echo test | wc
+echo test | wc
+ls |wc
+ls | wc
+ ls |wc
+ls | wc
+ls | wc
+ls | wc
+ls |wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc | wc
+ls | wc
+ls | wc | wc
+ls | wc | wc
+ls
+ls | wc
+echo blbl.txt | wc
+wc blbl.txt
+ls | wc
+ls |  wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ ls | wc | wc
+ls | wc | wc
+ls | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls
+ls | wc | wc
+ls | wc | wc
+ls | wc
+ls | wc
+ls | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+clear
+bbb
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc
+ls | wc | wc | wc
+ls | wc | wc | wc | wc
